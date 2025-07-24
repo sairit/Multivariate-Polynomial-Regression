@@ -1,7 +1,7 @@
 # Polynomial Regression Implementation from Scratch
 
 **Author:** Sai Yadavalli  
-**Version:** 1.0
+**Version:** 2.0
 
 A comprehensive implementation of polynomial regression with k-fold cross-validation, built from scratch using NumPy for mathematical computations and featuring automated model selection capabilities.
 
