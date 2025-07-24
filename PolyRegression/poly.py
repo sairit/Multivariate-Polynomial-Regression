@@ -1,6 +1,6 @@
 """
 @Author: Sai Yadavalli
-Version: 1.0
+Version: 2.0
 """
 
 import numpy as np
